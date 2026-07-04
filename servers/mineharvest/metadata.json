@@ -1,0 +1,25 @@
+{
+    "id": "mineharvest",
+    "name": "MineHarvest",
+    "website": "https://www.mineharvest.hu/",
+    "store": "https://www.mineharvest.hu/",
+    "description": "Play FullPvP on MineHarvest.hu.",
+    "addresses": [
+        "mineharvest.hu"
+    ],
+    "primaryAddress": "play.mineharvest.hu",
+    "primaryColor": "#1DC1DE",
+    "secondaryColor": "#2d8291",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}
